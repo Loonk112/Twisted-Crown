@@ -1,3 +1,3 @@
 Ancient tyrant, thought to have been killed returns from exile. Twisted over the years, he is but a shell of what once was. A shell that contains madness and illogic.
 
-Strike down the monster before it is too late...
+Strike down the monster before it is too late..
