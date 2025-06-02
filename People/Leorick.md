@@ -8,16 +8,16 @@ Born with high intellect and charisma, however the boy quickly caught on to the 
 
 The education that the nobles arranged for him, nurtured him into a powerful warrior, unafraid to use less then honorable ways to win.
 At one point, among the items Leorick laid his hands on were those bearing power and knowledge of deceased casters, such as grimoires that he used to grow his magical potency and knowledge in secret from his sponsors.
-From his brother's teachings and library books, Leorick became a charismatic man. While still hiding, Leorick used it to encroach upon his sponsors' supporters and convert them into his own.
+From his brother's teachings and library books, Leorick became a charismatic man. While still hiding, Leorick used it to encroach upon his sponsors' supporters and convert them into his own, often orchestrating a crisis that he miraculously solved. To those he sook to gain power over he shown his face as an intelligent and charming prince, gaining a large following among his subordinates.
 
 # Rise to power
 Through all his qualities, Leorick was an arrogant person, whom believed that once he grasped something, it would never break it's leash. This culminated in a fatal lack of supervision over those of his supporters that he believed to be the most loyal.
 
 This faction was not only the most loyal but also fanatical. When the prince's parents died during an expedition to the [[Abandoned Lands]] when he was 24, they decided to act quickly and ensure that their liege becomes the next king. They orchestrated an assassination of Keiran, pretending his death to be a suicide from grief over his parents. Leorick, having them at loose leash, learned about it too late to stop the plot.
 
-Placed as the crown prince against his will, the first thing Leorick did in his grief was an order to execute all involved in Keiran's death - down to the youngest children.
+Placed as the crown prince against his wishes, as he never wanted the crown, the first thing Leorick did in his grief was an order to execute all involved in Keiran's death - down to the youngest children.
 For unknowing of the assassination, this order was irrational and radical, as such most, including the royal guard refused the order. Some in fact went a step further and hid the targets of the order.
-This resulted in several things, two of which are more important then others - Spread of information about the assassination by Leorick's faction and Leorick personally beheading the commander of the royal guard.
+This resulted in several things, two of which are more important then others - Spread of information about the assassination by Leorick's faction and Leorick personally beheading the commander of the royal guard as an example.
 
 Within the chaos resulting from these revelations, the faction of the first prince took the grieving and confused Ulyssa away from the [[Crow's Eye|capital]], bringing her to [[Wheaton]] up north.
 
