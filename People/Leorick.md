@@ -31,11 +31,11 @@ That is not to say that he was without followers as he clearly divided punishmen
 # Fall
 Leorick's fall happened where it began - in Crow's Eye.
 Ulyssa and her allies stood an iron wall in his path of terror, allowing to gather and grow strength to strike the mad tyrant down.
-Through countless battles, both successes and defeats, the resistance managed to push up to the walls of the capital, where a select group of three snuck through the sewers into the capital castle and faced Leoric, at that time called The Mad Tyrant.
+Through countless battles, both successes and defeats, the resistance managed to push up to the walls of the capital, where a select group of three snuck through the sewers into the capital castle and faced Leorick, at that time called The Mad Tyrant.
 Through a long and prolonged battle, the three could not manage to kill the tyrant as he was too powerful. In desperation, the three cast a spell to banish him away from this world at the cost of their own lives.
 # Escape
 Stuck in the prison the now dead heroes sent him, Leorick managed to find a crack leading into the Dark Tapestry
 
 # Return
 Today, 500 years after his exile, when he is only remembered as The Mad Tyrant whom was killed by the heroes he returns to the Crow's Eye just in time for festival celebrating his death.
-Changed by his time away he is no longer human and he brings madness and destruction with him.
+Changed by his time away he is no longer human and he brings madness and destruction with him as he returns as [[Leorick, The Returned Tyrant]].

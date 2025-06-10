@@ -10,5 +10,11 @@ West: Syzean Empire
 West - North: [[Lazarus' Spine]] mountain chain
 North-West: Orenian Principality
 
-# Lands
-Warthian Kingdom is split into 7 lands:
+# Provinces
+- [[Woodhearth]]
+- [[Hillswall]]
+- [[Ashwood]]
+- [[Crownhead]]
+- [[Clashlands]]
+- [[Grainhold]]
+- [[Midgrounds]]
