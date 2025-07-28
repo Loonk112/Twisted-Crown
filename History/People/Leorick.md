@@ -1,6 +1,9 @@
 ---
 tags:
   - People
+aliases:
+  - The Mad Tyrant
+  - Mad Tyrant
 ---
 # Beginnings
 Leorick was born a second prince in the [[Warthan Kingdom]], born 2 years after his brother - [[Keiran]] and 5 before his sister [[Ulyssa]].
