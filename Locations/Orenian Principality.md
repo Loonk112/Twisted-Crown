@@ -11,3 +11,6 @@ A coalition of six city-states, based in [[Orenian Dessert]].
 
 # Placement
 Center-West of the continent.
+
+# City States
+#TODO 

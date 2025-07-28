@@ -18,7 +18,7 @@ After several months, a week after her 18th birthday Ulyssa tried meeting her br
 # Call to arms
 After her last encounter with her brother, Ulyssa called for support from lords of the kingdom's territory, part of whom answered the call, raising armies and denouncing the Mad Tyrant.
 
-Seeking help from not only inside but also outside, Ulyssa tried to gain help from [[Syzean Empire]], [[Orenian Principality]], [[The Great Wild]] and the dragons said to be living in the [[Dragon Tail]] mountains.
+Seeking help from not only inside but also outside, Ulyssa tried to gain help from [[Syzean Empire]], [[Orenian Principality]], [[The Great Wild]] and the dragons said to be living in the [[Dra]] mountains.
 The Empire, splintered in one of it's many civil wars did not give any answer and the Orenian Principality asked for half the land in exchange for help, which Ulyssa deemed unacceptable.
 Only The Great Wild answered the call of the princess, though what was paid for this help was never disclosed. As for the dragons, not much is known if they even exist beyond an occasional sighting by a farmer or a miner.
 
