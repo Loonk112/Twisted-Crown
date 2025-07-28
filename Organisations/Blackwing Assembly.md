@@ -18,4 +18,9 @@ At the top of the Blackwing Assembly stands the Council, formed by several most 
 ### Members
 - [[Lann Pierre]], founding member, noble
 - [[William Grothammer]], founding member, military man
-- 
+- [[Lucy Vandyrre]], founding member, merchant of [[House Vandyrre]]
+- [[Merrigold Harfeld]], founding member, Lady of [[Harfeld]]
+
+## Other notable members
+- [[Warren Mardove]], military, elite commander, hellknight from the Order of the Vice
+- [[Grace McWood]], quartermaster

@@ -4,6 +4,7 @@ tags:
 ---
 # Overview
 Allegiance: [[Warthan Kingdom]]
+Lord/Lady: [[Merrigold Harfeld]]
 Class: Hold
 Capital: [[Wheaton]]
 Large Settlements: [[Eldest's Stop]], [[Honeylight]]

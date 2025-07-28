@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blackwing Assembly.md",
+                "file": "Locations/Orenian Principality.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blackwing Assembly"
+              "title": "Orenian Principality"
             }
           }
         ],
@@ -209,11 +209,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a08013e96071b854",
+  "active": "ac98a426ab061111",
   "lastOpenFiles": [
+    "Locations/Orenian Principality.md",
     "Locations/Warthan Kingdom.md",
     "Locations/Warthan Kigdom/Harfeld.md",
-    "Blackwing Assembly.md",
+    "Organisations/Blackwing Assembly.md",
+    "Organisations/House Vandyrre.md",
+    "Organisations",
+    "Locations/Warthan Kigdom/Warthan Kingdom's Coat of Arms.webp",
     "Locations/Warthan Kigdom/Livvenmann.md",
     "Locations/Warthan Kigdom/Corvienne.md",
     "Locations/Warthan Kigdom/Brevnon.md",
@@ -236,7 +240,6 @@
     "Locations/Untitled.md",
     "Locations/Warthan Kigdom",
     "Locations",
-    "Orenian Principality.md",
     "Syzean Empire.md",
     "History/People"
   ]
