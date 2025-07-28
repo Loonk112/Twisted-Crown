@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "8f7bef236ba8fd77",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ac98a426ab061111",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -103,6 +87,7 @@
       {
         "id": "26712bebef898ce1",
         "type": "tabs",
+        "dimension": 48.976377952755904,
         "children": [
           {
             "id": "147d343858f05fee",
@@ -178,6 +163,23 @@
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "ef46039f5291f724",
+        "type": "tabs",
+        "dimension": 51.023622047244096,
+        "children": [
+          {
+            "id": "ac98a426ab061111",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac98a426ab061111",
+  "active": "6116d4bf5d96acce",
   "lastOpenFiles": [
     "History/People/Ulyssa.md",
     "Locations/Warthan Kigdom/Harfeld/Wheaton.md",
