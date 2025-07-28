@@ -1,3 +1,7 @@
+---
+tags:
+  - People
+---
 # Beggings
 Ulyssa was born as the only princess of [[Warthan Kingdom]], she was also the youngest of the three siblings, being born 5 years after [[Leorick]] and 7 after [[Keiran]].
 

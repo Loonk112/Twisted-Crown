@@ -1,5 +1,9 @@
+---
+tags:
+  - People
+---
 # Beginnings
-[[Leorick]] was born a second prince in the [[Warthan Kingdom]], born 2 years after his brother - [[Keiran]] and 5 before his sister [[Ulyssa]].
+Leorick was born a second prince in the [[Warthan Kingdom]], born 2 years after his brother - [[Keiran]] and 5 before his sister [[Ulyssa]].
 While his parents could not give him much attention to avoid any potential struggle for the position of the crown prince, the same could not be said for his older brother, whom often spent time with Leorick, becoming an irreplaceable figure in his life. After her birth, Ulyssa also became a light in his life that he followed and protected.
 
 Though his childhood was relatively normal, he always wanted more and never hesitated to use his status to achieve his wants.
@@ -26,7 +30,7 @@ Leorick, spiraling into madness, forcibly ensured that his first order be carrie
 # Rule
 Leorick ruled the kingdom with bloodied fist. Having spiraled into madness from the day he came to rule, he was convinced that his sister, Ulyssa was killed by the nobles in an act of revenge for his brother. Even when Ulyssa herself came out that she is alive, he declared her impostor and ordered her death.
 
-Leoric ruled this way for 8 years, each day growing more and more unhinged and extreme.
+Leorick ruled this way for 8 years, each day growing more and more unhinged and extreme.
 That is not to say that he was without followers as he clearly divided punishment and rewards, gaining fanatical support among some.
 # Fall
 Leorick's fall happened where it began - in Crow's Eye.
