@@ -26,7 +26,7 @@ Placed as the crown prince against his wishes, as he never wanted the crown, the
 For unknowing of the assassination, this order was irrational and radical, as such most, including the royal guard refused the order. Some in fact went a step further and hid the targets of the order.
 This resulted in several things, two of which are more important then others - Spread of information about the assassination by Leorick's faction and Leorick personally beheading the commander of the royal guard as an example.
 
-Within the chaos resulting from these revelations, the faction of the first prince took the grieving and confused Ulyssa away from the [[Crow's Eye|capital]], bringing her to [[Wheaton]] up north.
+Within the chaos resulting from these revelations, the faction of the first prince took the grieving and confused Ulyssa away from the [[Crow's Eye]], bringing her to [[Wheaton]] up north.
 
 Leorick, spiraling into madness, forcibly ensured that his first order be carried out by personally executing any who opposed, along with using those of his supporters that did not participate in the assassination to dispose of their families.
 
@@ -35,14 +35,5 @@ Leorick ruled the kingdom with bloodied fist. Having spiraled into madness from 
 
 Leorick ruled this way for 8 years, each day growing more and more unhinged and extreme.
 That is not to say that he was without followers as he clearly divided punishment and rewards, gaining fanatical support among some.
-# Fall
-Leorick's fall happened where it began - in Crow's Eye.
-Ulyssa and her allies stood an iron wall in his path of terror, allowing to gather and grow strength to strike the mad tyrant down.
-Through countless battles, both successes and defeats, the resistance managed to push up to the walls of the capital, where a select group of three snuck through the sewers into the capital castle and faced Leorick, at that time called The Mad Tyrant.
-Through a long and prolonged battle, the three could not manage to kill the tyrant as he was too powerful. In desperation, the three cast a spell to banish him away from this world at the cost of their own lives.
-# Escape
-Stuck in the prison the now dead heroes sent him, Leorick managed to find a crack leading into the Dark Tapestry
 
-# Return
-Today, 500 years after his exile, when he is only remembered as The Mad Tyrant whom was killed by the heroes he returns to the Crow's Eye just in time for festival celebrating his death.
-Changed by his time away he is no longer human and he brings madness and destruction with him as he returns as [[Leorick, The Returned Tyrant]].
+The last straw for the populace, especially nobles was the [[Red Council]]

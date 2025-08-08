@@ -4,8 +4,8 @@ tags:
   - Mercantile
 ---
 # Overview
-Class: Organisation, Mercantile
-Allegiance: None
+**Class**: Organisation, Mercantile
+**Allegiance**: None
 
 # Origin
 An old mercantile organisation.

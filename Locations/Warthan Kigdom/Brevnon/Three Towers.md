@@ -4,8 +4,8 @@ tags:
   - Aeon
 ---
 # Overview
-Class: Landmark
-Location: Southern [[Warthan Kingdom]], South-East [[Brevnon]]
+**Class**: Landmark
+**Location**: Southern [[Warthan Kingdom]], South-East [[Brevnon]]
 # Geography
 Placed in the hills of south-eastern Brevnon, Three Towers are named such after the ruins of three separate towers, each built on a different hilltop.
 

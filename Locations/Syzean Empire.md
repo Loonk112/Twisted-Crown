@@ -3,9 +3,9 @@ tags:
   - Country
 ---
 # Overview
-Class: Empire
-Size: Large, 8 [[#Provinces]]
-Coat of Arms: Tower reaching to the skies
+**Class**: Empire
+**Size**: Large, 8 [[#Provinces]]
+**Coat of Arms**: Tower reaching to the skies
 # Origin
 #TODO 
 

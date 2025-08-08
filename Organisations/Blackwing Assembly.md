@@ -4,12 +4,12 @@ tags:
   - Military
 ---
 # Overview
-Class: Organisation, Military
-Allegiance: [[Warthan Kingdom]]
+**Class**: Organisation, Military
+**Allegiance**: [[Warthan Kingdom]]
 
 # Origin
-An emergency council, formed shortly after [[The Return]].
-Temporarily based in [[Wheaton]], where the most refugees ran to, due to it's high food processing capability, it serves as emergency government of the kingdom, despite the [[Warthan Kingdom#Holds|holds]] independence.
+An emergency council, formed shortly after [[Red Council]] happened.
+Set up in [[Wheaton]], as it's one of the holds with the least amount of [[Leorick]]'s influence, alongside 
 
 # Hierarchy
 ## Council

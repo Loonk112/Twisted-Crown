@@ -3,14 +3,14 @@ tags:
   - Hold
 ---
 # Overview
-Allegiance: [[Warthan Kingdom]]
-Ruler: [[Merrigold Harfeld]]
-Class: Hold
-Capital: [[Wheaton]]
-Large Settlements: [[Eldest's Stop]], [[Honeylight]]
-Small Settlements: [[Silverwater]], [[Oakhurst]], [[Youngest's Rest]], [[Wormsflow]], [[Sisters Meet]], [[Hero's Pass]]
-Military Outposts: [[Fort Sandstone]]
-Landmarks: [[Lake of Regret]], [[Cornucopian Fields]],, [[Scarecrows Hill]]
+**Allegiance**: [[Warthan Kingdom]]
+**Ruler**: [[Merrigold Harfeld]]
+**Class**: Hold
+**Capital**: [[Wheaton]]
+**Large Settlements**: [[Eldest's Stop]], [[Honeylight]]
+**Small Settlements**: [[Silverwater]], [[Oakhurst]], [[Youngest's Rest]], [[Wormsflow]], [[Sisters Meet]], [[Hero's Pass]]
+**Military Outposts**: [[Fort Sandstone]]
+**Landmarks**: [[Lake of Regret]], [[Cornucopian Fields]],, [[Scarecrows Hill]]
 
 # Geography
 Placed at the North-West border of the Warthan Kingdom, Harfeld is placed along the [[Lazarus' Spine]] mountain chain, guarding one of it's two passes from the [[Orenian Principality]] into the kingdom.
