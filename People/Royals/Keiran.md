@@ -2,8 +2,9 @@
 tags:
   - People
 ---
+
 # Begginings
-The oldest brother of both [[Leorick]] and [[Ulyssa]]. Born a crown prince of [[Warthan Kingdom]], he was educated in all manners of disciplines useful for a monarch.
+The oldest brother of both [[Leorick]] and [[Ulyssa Corvienne|Ulyssa]]. Born a crown prince of [[Warthan Kingdom]], he was educated in all manners of disciplines useful for a monarch.
 
 Despite the responsibilities that being a crown prince carried, Keiran always found time to spend with his siblings, taking a role of a loving brother and role model.
 

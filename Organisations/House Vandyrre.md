@@ -24,6 +24,6 @@ A Vandyrre can be re-elected if one of the following happens:
 - A vote of confidence rules the current Vandyrre unfit
 - Vandyrre dies or is otherwise unreachable for at least a year
 - Vandyrre is determined to have intentionally acted against the interests of the House
-# Notable members
+## Notable members
 - [[Lucy Vandyrre]], current Vandyrre of the [[Warthan Kingdom]]
 - 

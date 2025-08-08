@@ -6,7 +6,7 @@ aliases:
   - Mad Tyrant
 ---
 # Beginnings
-Leorick was born a second prince in the [[Warthan Kingdom]], born 2 years after his brother - [[Keiran]] and 5 before his sister [[Ulyssa]].
+Leorick was born a second prince in the [[Warthan Kingdom]], born 2 years after his brother - [[Keiran]] and 5 before his sister [[Ulyssa Corvienne|Ulyssa]].
 While his parents could not give him much attention to avoid any potential struggle for the position of the crown prince, the same could not be said for his older brother, whom often spent time with Leorick, becoming an irreplaceable figure in his life. After her birth, Ulyssa also became a light in his life that he followed and protected.
 
 Though his childhood was relatively normal, he always wanted more and never hesitated to use his status to achieve his wants.
