@@ -1,6 +1,7 @@
 ---
 tags:
   - People
+  - Royal
 ---
 # History
 ## Begginings

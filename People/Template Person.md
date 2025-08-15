@@ -1,13 +1,11 @@
 ---
 tags:
-  - People
-  - Mercantile
+  - Template
 ---
 # Biological overview
 **Ancestry**: 
 **Heritage**: 
-**Sex**: F
-**Personality**: 
+**Sex**: 
 **Stat block**: 
 
 # Social overview

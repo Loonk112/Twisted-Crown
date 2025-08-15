@@ -1,3 +1,7 @@
+---
+tags:
+  - Template
+---
 # Overview
 **Allegiance**: [[]]
 **Class**: Hold

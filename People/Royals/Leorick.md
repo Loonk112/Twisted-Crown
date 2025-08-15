@@ -1,6 +1,7 @@
 ---
 tags:
   - People
+  - Royal
 aliases:
   - The Mad Tyrant
   - Mad Tyrant

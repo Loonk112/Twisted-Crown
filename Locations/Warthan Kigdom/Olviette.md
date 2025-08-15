@@ -5,8 +5,8 @@ tags:
 # Overview
 **Allegiance**: [[Warthan Kingdom]]
 **Class**: Hold
-**Capital**: [[]]
-**Large Settlements**: [[]], [[]]
+**Capital**: [[Dragon's Reach]]
+**Large Settlements**: [[Marshend]], [[]]
 **Small Settlements**: [[]], [[]], [[]], [[]], [[]], [[]]
 **Landmarks**: [[Sirens Cove]]
 # Geography
