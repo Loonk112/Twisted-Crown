@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Warthan Kigdom/Livvenmann.md",
+                "file": "Organisations/Blackwing Assembly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Livvenmann"
+              "title": "Blackwing Assembly"
             }
           }
         ]
@@ -198,21 +198,22 @@
   },
   "active": "e51afbbcbbf9c11f",
   "lastOpenFiles": [
-    "Locations/Warthan Kigdom/Wreen.md",
+    "Events/Red Council.md",
+    "Locations/Warthan Kingdom.md",
+    "Locations/Ascended Ocean.md",
+    "Locations/Abandoned Lands.md",
+    "Locations/Warthan Kigdom/Brevnon.md",
+    "Locations/Warthan Kigdom/Corvienne.md",
+    "Locations/Warthan Kigdom/Harfeld.md",
     "Locations/Warthan Kigdom/Livvenmann.md",
-    "Crustlot.md",
+    "Locations/Warthan Kigdom/Olviette.md",
     "Locations/Warthan Kigdom/Rathkuth.md",
+    "Locations/Warthan Kigdom/Wreen.md",
+    "Crustlot.md",
     "Locations/Syzean Empire.md",
     "Locations/Silverwater Mines.md",
     "Locations/Template Area.md",
-    "Locations/Warthan Kingdom.md",
     "Locations/Orenian Principality.md",
-    "Locations/Ascended Ocean.md",
-    "Locations/Abandoned Lands.md",
-    "Locations/Warthan Kigdom/Olviette.md",
-    "Locations/Warthan Kigdom/Harfeld.md",
-    "Locations/Warthan Kigdom/Corvienne.md",
-    "Locations/Warthan Kigdom/Brevnon.md",
     "Locations/Warthan Kigdom/Harfeld/Wheaton.md",
     "People/Royals/Keiran.md",
     "People/Other/Vizirrael.md",
@@ -225,7 +226,6 @@
     "Organisations/Red Lantern.md",
     "People/Other",
     "Locations/Warthan Kigdom/Warthan Kingdom's Coat of Arms.webp",
-    "Events/Red Council.md",
     "Locations/Warthan Kigdom/Warthan Kingdom.webp",
     "People/Nobles",
     "People/Merchants",

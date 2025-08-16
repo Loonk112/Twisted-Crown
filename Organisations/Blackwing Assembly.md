@@ -8,7 +8,7 @@ tags:
 **Allegiance**: [[Warthan Kingdom]]
 
 # Origin
-An emergency council, formed shortly after [[Red Council]].
+An emergency council, formed the year [[Red Council]] took place.
 Set up in [[Wheaton]], as it's one of the holds with the least amount of [[Leorick]]'s influence, what started as conference discussing the kings state, quickly transformed into revolutionary/rebel group.
 
 # Hierarchy
