@@ -21,9 +21,9 @@ Handle acts as the primary sponsor, one who supplies the funds where needed.
 - ## Cage
 Current: [[Kautt Rennorn]]
 Cage acts as manager, who ensures smooth day-to-day operations, by deciding where to set up new branches and solves any issues that arise.
-- ## Light
-Current: #TODO 
-Light acts as the spotlight, who filters and works with gathered information, ensuring all important news are quickly noticed and dealt with.
+- ## Flame
+Current: [[Vizirrael]] 
+Flame acts as the spotlight, who filters and works with gathered information, ensuring all important news are quickly noticed and dealt with.
 
 ## General members
 Each of these three have a separate groups under them, who might not be aware who is above them, but also unaware what position exactly are their coworkers and if they even are part of the organisations.

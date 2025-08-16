@@ -3,6 +3,16 @@ tags:
   - People
   - Royal
 ---
+# Biological overview
+**Ancestry**: Human
+**Heritage**: Skilled
+**Sex**: M
+**Stat block**: ---
+
+# Social overview
+**Faith**: #TODO 
+**Allegiance(s) and standings**: 
+- Example Organisation (Rank)
 # History
 ## Begginings
 The oldest brother of both [[Leorick]] and [[Ulyssa Corvienne|Ulyssa]]. Born a crown prince of [[Warthan Kingdom]], he was educated in all manners of disciplines useful for a monarch.

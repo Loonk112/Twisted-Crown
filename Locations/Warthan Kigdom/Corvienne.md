@@ -14,3 +14,5 @@ tags:
 # Geography
 Placed at the South-Eastern end of the Warthan Kingdom at the Crow's Beak Peninsula, it faces the [[Ascended Ocean]] from all directions except the east.
 The land is mostly fields and grasslands, with Ironback Mountains along the Eastern edge of the hold. Part of the Northern part is covered in grasslands.
+# Population
+#TODO 

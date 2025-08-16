@@ -6,6 +6,16 @@ aliases:
   - The Mad Tyrant
   - Mad Tyrant
 ---
+# Biological overview
+**Ancestry**: Human
+**Heritage**: Skilled
+**Sex**: M
+**Stat block**: #TODO 
+
+# Social overview
+**Faith**: #TODO 
+**Allegiance(s) and standings**: 
+- Example Organisation (Rank)
 # History
 ## Beginnings
 Leorick was born a second prince in the [[Warthan Kingdom]], born 2 years after his brother - [[Keiran]] and 5 before his sister [[Ulyssa Corvienne|Ulyssa]].

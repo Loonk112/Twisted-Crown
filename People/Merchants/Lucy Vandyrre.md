@@ -4,14 +4,16 @@ tags:
   - Mercantile
 ---
 # Biological overview
-**Ancestry**: 
-**Heritage**: 
+**Ancestry**: #TODO 
+**Heritage**: #TODO 
 **Sex**: F
-**Personality**: 
-**Stat block**: 
+**Personality**: #TODO 
+**Stat block**: #TODO 
 
 # Social overview
+**Faith**: #TODO 
 **Allegiance(s) and standings**: 
-- Example Organisation (Rank)
+- Example Organisation (Rank) #TODO 
 
 # History
+#TODO 

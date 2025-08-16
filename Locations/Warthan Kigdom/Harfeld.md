@@ -15,3 +15,6 @@ tags:
 # Geography
 Placed at the North-West border of the Warthan Kingdom, Harfeld is placed along the [[Lazarus' Spine]] mountain chain, guarding one of it's two passes from the [[Orenian Principality]] into the kingdom.
 Most of the hold's lands are covered in fields, with several mountains, mostly at the northern end. The hold is also a home to two lakes, one of which is the Lake of Regret.
+
+# Population
+#TODO 

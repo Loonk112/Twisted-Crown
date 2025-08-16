@@ -3,13 +3,15 @@ tags:
   - Template
 ---
 # Biological overview
-**Ancestry**: 
-**Heritage**: 
-**Sex**: 
-**Stat block**: 
+**Ancestry**: #TODO 
+**Heritage**: #TODO 
+**Sex**: #TODO 
+**Stat block**: #TODO 
 
 # Social overview
-**Allegiance(s) and standings**: 
+**Faith**: #TODO 
+**Allegiance(s) and standings**: #TODO 
 - Example Organisation (Rank)
 
 # History
+#TODO 

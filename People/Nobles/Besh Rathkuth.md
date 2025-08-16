@@ -11,6 +11,7 @@ tags:
 **Stat block**: High Roller (NPC Core p. 79)
 
 # Social overview
+**Faith**: #TODO 
 **Allegiance(s) and standings**: 
 - [[Warthan Kingdom]] (Marquess/Count of [[Rathkuth]])
 - [[Red Lantern]] (Handle)

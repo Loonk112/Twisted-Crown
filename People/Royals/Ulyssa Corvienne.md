@@ -5,6 +5,16 @@ tags:
 aliases:
   - Ulyssa
 ---
+# Biological overview
+**Ancestry**: Human
+**Heritage**: Versatile
+**Sex**: F
+**Stat block**: #TODO 
+
+# Social overview
+**Faith**: #TODO 
+**Allegiance(s) and standings**: #TODO 
+- Example Organisation (Rank)
 # History
 ## Beggings
 Ulyssa was born as the only princess of [[Warthan Kingdom]], she was also the youngest of the three siblings, being born 5 years after [[Leorick]] and 7 after [[Keiran]].
