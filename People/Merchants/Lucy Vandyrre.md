@@ -7,7 +7,7 @@ tags:
 **Ancestry**: #TODO 
 **Heritage**: #TODO 
 **Sex**: F
-**Personality**: #TODO 
+**Personality**: Calculative, Cold
 **Stat block**: #TODO 
 
 # Social overview

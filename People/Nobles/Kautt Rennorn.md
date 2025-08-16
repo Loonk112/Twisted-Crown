@@ -2,6 +2,7 @@
 **Ancestry**: Human
 **Heritage**: Versatile
 **Sex**: M
+**Personality**: #TODO
 **Stat block**: Mayor (NPC Core p. 109)
 
 # Social overview

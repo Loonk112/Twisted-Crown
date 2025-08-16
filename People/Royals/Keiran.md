@@ -3,10 +3,11 @@ tags:
   - People
   - Royal
 ---
-# Biological overview
+# Basic overview
 **Ancestry**: Human
 **Heritage**: Skilled
 **Sex**: M
+**Personality**: #TODO
 **Stat block**: ---
 
 # Social overview

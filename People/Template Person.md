@@ -2,10 +2,11 @@
 tags:
   - Template
 ---
-# Biological overview
+# Basic overview
 **Ancestry**: #TODO 
 **Heritage**: #TODO 
 **Sex**: #TODO 
+**Personality**: #TODO
 **Stat block**: #TODO 
 
 # Social overview

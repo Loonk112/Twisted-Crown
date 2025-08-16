@@ -5,10 +5,11 @@ tags:
 aliases:
   - Ulyssa
 ---
-# Biological overview
+# Basic overview
 **Ancestry**: Human
 **Heritage**: Versatile
 **Sex**: F
+**Personality**: #TODO
 **Stat block**: #TODO 
 
 # Social overview

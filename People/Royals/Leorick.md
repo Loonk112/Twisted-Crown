@@ -6,10 +6,11 @@ aliases:
   - The Mad Tyrant
   - Mad Tyrant
 ---
-# Biological overview
+# Basic overview
 **Ancestry**: Human
 **Heritage**: Skilled
 **Sex**: M
+**Personality**: #TODO
 **Stat block**: #TODO 
 
 # Social overview
