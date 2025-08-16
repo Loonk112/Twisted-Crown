@@ -11,14 +11,12 @@
             "id": "e51afbbcbbf9c11f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "People/Merchants/Lucy Vandyrre.md",
-                "mode": "source",
-                "source": false
+                "file": "Locations/Warthan Kigdom/Warthan Kingdom.jpg"
               },
-              "icon": "lucide-file",
-              "title": "Lucy Vandyrre"
+              "icon": "lucide-image",
+              "title": "Warthan Kingdom"
             }
           }
         ]
@@ -196,8 +194,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6116d4bf5d96acce",
+  "active": "e51afbbcbbf9c11f",
   "lastOpenFiles": [
+    "People/Merchants/Lucy Vandyrre.md",
     "Locations/Warthan Kigdom/Warthan Kingdom.jpg",
     "People/Nobles/Besh Rathkuth.md",
     "People/Nobles/Kautt Rennorn.md",
