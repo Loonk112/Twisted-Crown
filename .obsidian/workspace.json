@@ -11,12 +11,14 @@
             "id": "e51afbbcbbf9c11f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Locations/Warthan Kigdom/Warthan Kingdom's Map.jpg"
+                "file": "Locations/Warthan Kingdom.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Warthan Kingdom's Map"
+              "icon": "lucide-file",
+              "title": "Warthan Kingdom"
             }
           }
         ]
@@ -194,10 +196,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7abb91cd170636ef",
+  "active": "e51afbbcbbf9c11f",
   "lastOpenFiles": [
-    "People/Merchants/Lucy Vandyrre.md",
     "Locations/Warthan Kigdom/Warthan Kingdom's Map.jpg",
+    "People/Merchants/Lucy Vandyrre.md",
     "People/Nobles/Besh Rathkuth.md",
     "People/Nobles/Kautt Rennorn.md",
     "People/Other/Vizirrael.md",
@@ -222,7 +224,6 @@
     "Locations/Silverwater Mines.md",
     "Locations/Template Area.md",
     "Locations/Orenian Principality.md",
-    "Locations/Warthan Kigdom/Harfeld/Wheaton.md",
     "People/Other",
     "Locations/Warthan Kigdom/Warthan Kingdom's Coat of Arms.webp",
     "Locations/Warthan Kigdom/Warthan Kingdom.webp",
