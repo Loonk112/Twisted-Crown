@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Locations/Warthan Kigdom/Warthan Kingdom.jpg"
+                "file": "Locations/Warthan Kigdom/Warthan Kingdom's Map.jpg"
               },
               "icon": "lucide-image",
-              "title": "Warthan Kingdom"
+              "title": "Warthan Kingdom's Map"
             }
           }
         ]
@@ -194,10 +194,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e51afbbcbbf9c11f",
+  "active": "7abb91cd170636ef",
   "lastOpenFiles": [
     "People/Merchants/Lucy Vandyrre.md",
-    "Locations/Warthan Kigdom/Warthan Kingdom.jpg",
+    "Locations/Warthan Kigdom/Warthan Kingdom's Map.jpg",
     "People/Nobles/Besh Rathkuth.md",
     "People/Nobles/Kautt Rennorn.md",
     "People/Other/Vizirrael.md",
