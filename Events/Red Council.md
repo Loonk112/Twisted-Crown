@@ -2,8 +2,8 @@
 tags:
   - Events
 ---
-# Overview
-**Date**: 4731 AR
+**Date**: 4759 AR
 **Key Actors**: [[Leorick]]
 
-During the monthly gathering of the nobles council, [[Leorick]] barged in with a drawn sword, proceeding to cut down over 12 of 43 present nobles.
+**Description**: 
+During annual Grand Meeting, a noble mentioned [[Blackwing Assembly]]. Upon learning of such  group, Leorick flew in rage and personally killed 3 of presiding 14 nobles, ordering the other 11 imprisoned.

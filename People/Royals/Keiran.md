@@ -7,6 +7,7 @@ tags:
 **Ancestry**: Human
 **Heritage**: Skilled
 **Sex**: M
+**DoB/DoD**: 4730 AR / 4754 AR 
 **Personality**: #TODO
 **Stat block**: ---
 
@@ -23,7 +24,7 @@ Despite the responsibilities that being a crown prince carried, Keiran always fo
 Excelling at governance and diplomacy, Keiran quickly became a star of the kingdom despite his lack of martial and arcane prowess, with people enchanted with his person and skillful management of the country.
 
 ## End
-At the age of 26, shortly after receiving news of his parents demise in the [[Abandoned Lands]], Keiran was led to a balcony in the royal castle, where he was pushed down so as to simulate suicide.
+At the age of 24, shortly after receiving news of his parents demise in the [[Abandoned Lands]], Keiran was led to a balcony in the royal castle, where he was pushed down so as to simulate suicide in **4754 AR***.
 
 ## Burial
 After his death, Keiran was buried by Leorick in the royal catacombs, under the [[Ironback Mountains]] in the first days of his rule, where he lies to this day.

@@ -10,6 +10,7 @@ aliases:
 **Ancestry**: Human
 **Heritage**: Skilled
 **Sex**: M
+**DoB/DoD**: 4732 AR / -
 **Personality**: #TODO
 **Stat block**: #TODO 
 
@@ -33,7 +34,11 @@ From his brother's teachings and library books, Leorick became a charismatic man
 ## Rise to power
 Through all his qualities, Leorick was an arrogant person, whom believed that once he grasped something, it would never break it's leash. This culminated in a fatal lack of supervision over those of his supporters that he believed to be the most loyal.
 
-This faction was not only the most loyal but also fanatical. When the prince's parents died during an expedition to the [[Abandoned Lands]] when he was 24, they decided to act quickly and ensure that their liege becomes the next king. They orchestrated an assassination of Keiran, pretending his death to be a suicide from grief over his parents. Leorick, having them at loose leash, learned about it too late to stop the plot.
+This faction was not only the most loyal but also fanatical. When the prince's parents died during an expedition to the [[Abandoned Lands]] when he was 22 in ***4754 AR***, they decided to act quickly and ensure that their liege becomes the next king. 
+They orchestrated an assassination of Keiran, pretending his death to be a suicide from grief over his parents the same day the news arrived at the capital. Leorick, having them at loose leash, learned about it too late to stop the plot.
+
+## Coronation
+Leorick was crowned 3 months after Keiran's murder, on ***6.4754 AR***
 
 Placed as the crown prince against his wishes, as he never wanted the crown, the first thing Leorick did in his grief was an order to execute all involved in Keiran's death - down to the youngest children.
 For unknowing of the assassination, this order was irrational and radical, as such most, including the royal guard refused the order. Some in fact went a step further and hid the targets of the order.
@@ -44,13 +49,14 @@ Within the chaos resulting from these revelations, the faction of the first prin
 Leorick, spiraling into madness, forcibly ensured that his first order be carried out by personally executing any who opposed, along with using those of his supporters that did not participate in the assassination to dispose of their families.
 
 ## Rule
-Leorick ruled the kingdom with bloodied fist. Having spiraled into madness from the day he came to rule, he was convinced that his sister, Ulyssa was killed by the nobles in an act of revenge for his brother. Even when Ulyssa herself came out that she is alive, he declared her impostor and ordered her death.
+Leorick ruled the kingdom with bloodied fist. Having spiraled into madness from the day he came to rule, he was convinced that his sister, Ulyssa was killed by the nobles in an act of revenge for his brother. 
 
-Leorick ruled this way for 8 years - starting from 4723, each day growing more and more unhinged and extreme.
-That is not to say that he was without followers as he clearly divided punishment and rewards, gaining fanatical support among some and disposing of dissenters - both publicly and secretly.
+In ***4756 AR***, during one of the king's speeches, Ulyssa herself appeared and tried speaking reason. Sadly, Leorick convinced she was an impostor decreed her execution. Thanks to a previously prepared spell however, Ulyssa managed to escape.
 
-The last straw for the populace, especially nobles was the [[Red Council]]
+As Leorick ruled, each day growing more and more unhinged and extreme the next two years, discontent grew among nobles and people.
 
+At one point, [[Blackwing Assembly]] was founded in ***4758 AR***.
+By **4759 AR***, news of this alliance reached Leorick during annual Grand Meeting, and in rage, he pulled out his sword and personally cut down 3 of present 14 nobles, ordering the rest to be imprisoned ([[Red Council]]).
 # Relations
 - Keiran: Brother
 - Ulyssa: Sister

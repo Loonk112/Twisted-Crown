@@ -6,6 +6,7 @@ tags:
 **Ancestry**: #TODO 
 **Heritage**: #TODO 
 **Sex**: #TODO 
+**DoB/DoD**: #TODO 
 **Personality**: #TODO
 **Stat block**: #TODO 
 
