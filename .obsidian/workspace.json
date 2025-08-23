@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Royals/Ulyssa Corvienne.md",
+                "file": "Encounters/Eerie House.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ulyssa Corvienne"
+              "title": "Eerie House"
             }
           }
         ]
@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -196,8 +197,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ac98a426ab061111",
+  "active": "e51afbbcbbf9c11f",
   "lastOpenFiles": [
+    "Encounters/Eerie House.md",
+    "Encounters",
     "People/Royals/Ulyssa Corvienne.md",
     "People/Royals/Leorick.md",
     "People/Royals/Keiran.md",
@@ -224,7 +227,6 @@
     "Locations/Syzean Empire.md",
     "Locations/Silverwater Mines.md",
     "Locations/Template Area.md",
-    "Locations/Orenian Principality.md",
     "People/Other",
     "Locations/Warthan Kigdom/Warthan Kingdom's Coat of Arms.webp",
     "Locations/Warthan Kigdom/Warthan Kingdom.webp",
@@ -235,7 +237,6 @@
     "Locations/Warthan Kigdom/Harfeld",
     "Organisations",
     "Locations/Warthan Kigdom/Brevnon",
-    "History",
-    "Bestiary"
+    "History"
   ]
 }
